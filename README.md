@@ -48,7 +48,7 @@
 git clone https://github.com/Williamleedawn/Health_system/tree/main
 
 # 进入项目目录
-cd health_system
+cd health_systemf
 ```
 
 ### 三、 安装依赖
