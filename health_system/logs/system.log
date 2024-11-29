@@ -9,3 +9,5 @@
 2024-11-28 16:14:26,867 [ERROR] 导出数据时发生错误: [Errno 13] Permission denied: 'C:\\Users\\willi\\Desktop\\health_system\\1'
 2024-11-28 16:14:26,868 [ERROR] 数据导出失败: 导出数据时发生错误: [Errno 13] Permission denied: 'C:\\Users\\willi\\Desktop\\health_system\\1'
 2024-11-28 16:16:48,881 [INFO] 成功导出患者数据到 C:\Users\willi\Desktop\health_system\exported_data.json
+2024-11-29 11:34:06,181 [INFO] 成功加载 100 条患者数据。
+2024-11-29 11:34:06,181 [INFO] 健康记录管理系统初始化成功。
